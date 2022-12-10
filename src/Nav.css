@@ -1,0 +1,31 @@
+.nav{
+    color: white;
+    background-color: darkorchid;
+    margin: 0;
+    
+}
+ul{
+    list-style-type: none;
+}
+li{
+    
+    display: inline;
+    padding: 100px;
+    
+}
+#box{
+    margin-right: 750px;
+   
+}
+#nav:hover{
+    text-decoration: underline;
+
+}
+.nav p{
+font-weight: bolder;
+font-size: xx-large;
+color: white;
+margin-top: 250px;
+padding-bottom: 100px;
+margin-left:700px;
+}

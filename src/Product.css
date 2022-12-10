@@ -1,0 +1,41 @@
+.product h2{
+    color: blueviolet;
+    font-size: xx-large;
+    padding-top: 8rem;
+    padding-bottom: 5rem;
+}
+.product li{
+    font-size: x-large;
+
+}
+.product li:hover{
+    color: blueviolet;
+    text-decoration: underline 5px;
+}
+.map p{
+    margin-left: 200px;
+    margin-right: 1100px;
+    
+}
+.map h3{
+    font-weight: bolder;
+    margin-right: 70%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.features p{
+    margin-right: 20%;
+    margin-left: 40%;
+    line-height: 3.0;
+}
+ .features{
+    margin-right: 70%;
+ } 
+ button{
+    border-radius: 3em;
+    border-color:purple;
+    color: black;
+    padding: 15px 32px 20px;
+    
+ }

@@ -1,0 +1,19 @@
+.about{
+    background-color: plum;
+    
+    
+    
+    
+}
+.about h2{
+    padding-top: 40px;
+}
+.about p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2em;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: blueviolet;
+    padding-bottom: 100px;
+}
