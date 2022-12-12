@@ -9,16 +9,20 @@ import WebAssetIcon from '@mui/icons-material/WebAsset';
 const Icons = () => {
     return ( 
         <div className="icons">
+            <div className="ico">
             <ul>
-            <li><TravelExploreIcon/></li>
-            <li><ChairAltIcon/></li>
-           <li><LandslideIcon/></li> 
-           <li><DomainAddIcon/></li> 
-           <li><RoomServiceIcon/></li> 
-           <li><WebAssetIcon/></li>
+            <li><TravelExploreIcon fontSize='large'/></li>
+            <li><ChairAltIcon fontSize='large'/></li>
+           <li><LandslideIcon  fontSize='large'/></li> 
+           <li><DomainAddIcon fontSize='large' /></li> 
+           <li><RoomServiceIcon fontSize='large' /></li> 
+           <li><WebAssetIcon fontSize='large'/></li>
         
 
             </ul>
+
+            </div>
+          
             <div className="satelite">
             <ul>
                 <li id='space'>Space<br></br>

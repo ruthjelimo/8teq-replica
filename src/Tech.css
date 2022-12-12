@@ -1,4 +1,50 @@
 .tech h2{
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
 }
+.tech{
+    padding-bottom: 10rem;
+}
+.tc{
+    font-size: xx-large;
+    font-weight: bolder;
+
+  
+}
+#app{
+    width: 10pt;
+    height: 10pt;
+    background-color:ghostwhite;
+    border-radius: 20%;
+    
+
+}
+#unit{
+    width: 10pt;
+    height: 10pt;
+    background-color:ghostwhite;
+    border-radius: 20%;
+    margin-left: 3%;
+    
+    
+}
+#tech{
+    width: 10pt;
+    height: 10pt;
+    background-color:ghostwhite;
+    border-radius: 20%;
+    margin-left: 3%;
+    margin-right: 3%;
+    
+
+
+}
+#seat{
+    width: 10pt;
+    height: 10pt;
+    background-color:ghostwhite;
+    border-radius: 20%;
+
+
+}
+

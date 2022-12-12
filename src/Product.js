@@ -1,4 +1,6 @@
 import './Product.css';
+import Button from 'react-bootstrap/Button';
+
 import CheckBoxIcon from '@mui/icons-material/CheckBox';
 const Product = () => {
     return ( 
@@ -23,16 +25,20 @@ const Product = () => {
             </div>
             <div className="features">
                 <h3>Features</h3>
-               <p><CheckBoxIcon />Target Identification </p> 
+               <p><CheckBoxIcon/>Target Identification</p> 
                <p><CheckBoxIcon/>Real-time events alerts</p>
                <p><CheckBoxIcon/>Watchlist monitoring and management</p>
                <p><CheckBoxIcon/>Events reports & Secure video management</p>
-               <button> Explore NBIS</button>
+               
+               <Button variant="primary">Explore NBIS</Button>
              
                
 
                
 
+            </div>
+            <div className="image">
+                <img src="./8teq.png" alt="" />
             </div>
 
 
