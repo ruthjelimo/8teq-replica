@@ -1,0 +1,15 @@
+.Contact{
+    background-color: aquamarine;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    position: relative;
+    top: 250px;
+    line-height: 2;
+    font-size: larger;
+
+    margin-left: 10%;
+    margin-right: 10%;
+    
+   
+ 
+}

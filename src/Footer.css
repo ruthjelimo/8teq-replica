@@ -1,0 +1,43 @@
+.footer{
+    color: antiquewhite;
+    
+    padding-top:150px;
+    background-color: blueviolet;
+    padding-bottom: 200px;
+   
+    position: relative;
+    top: 200px;
+   
+
+}
+span{
+    font-weight: bolder;
+    
+}
+.teq{
+    padding-left: 2px;
+    margin-right: 1200px;
+    position: relative;
+    top:250px;
+    
+}
+.company{
+    position: relative;
+    top: 110px;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1200px;
+}
+.power{
+    padding-top: 80px;
+    text-decoration: overline 2px;
+    position: relative;
+    top: 100px;
+    
+ 
+    
+
+    
+}

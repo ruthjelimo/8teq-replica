@@ -1,5 +1,9 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
 import './Product.css';
 import Button from 'react-bootstrap/Button';
+// import Teq from './Images/8teq.jpg';
+import Teq from './8teq.jpg'
+
 
 import CheckBoxIcon from '@mui/icons-material/CheckBox';
 const Product = () => {
@@ -31,15 +35,22 @@ const Product = () => {
                <p><CheckBoxIcon/>Events reports & Secure video management</p>
                
                <Button variant="primary">Explore NBIS</Button>
+               <div className="image">
+                 <img src={Teq} alt="" height={400} width={500} />
+            
+           
+    
+        
+              
+            </div>
+             
              
                
 
                
 
             </div>
-            <div className="image">
-                <img src="./8teq.png" alt="" />
-            </div>
+          
 
 
             

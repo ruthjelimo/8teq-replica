@@ -5,6 +5,8 @@ import About from './About';
 import Icons from './Icons';
 import Tech from './Tech';
 import Product from './Product';
+import Footer from './Footer';
+import Contact from './Contact';
 
 
 
@@ -20,6 +22,8 @@ function App() {
       <Icons/>
       <Tech/>
       <Product/>
+      <Contact/>
+      <Footer/>
    
       
       
